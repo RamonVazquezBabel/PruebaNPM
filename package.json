@@ -1,0 +1,15 @@
+{
+  "name": "ejemplonpm",
+  "version": "1.0.0",
+  "description": "Proyecto de prueba npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "demo"
+  ],
+  "author": "Ramon David Vazquez Sanchez",
+  "license": "ISC"
+}
